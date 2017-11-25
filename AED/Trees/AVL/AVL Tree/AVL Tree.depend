@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1511327689 source:c:\users\alejandro\desktop\aed\avl\avl tree\main.cpp
+	<iostream>
+	<iomanip>
+	<stack>
+	<vector>
+	<stdlib.h>
+
